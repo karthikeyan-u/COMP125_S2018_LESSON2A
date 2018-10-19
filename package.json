@@ -1,0 +1,26 @@
+{
+  "name": "COMP125_S2018_LESSON2A",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karthikeyan-u/COMP125_S2018_LESSON2A.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karthikeyan-u/COMP125_S2018_LESSON2A/issues"
+  },
+  "homepage": "https://github.com/karthikeyan-u/COMP125_S2018_LESSON2A#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.3.1",
+    "save": "^2.3.2"
+  }
+}
